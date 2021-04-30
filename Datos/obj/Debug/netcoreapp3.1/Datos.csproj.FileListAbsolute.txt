@@ -1,0 +1,5 @@
+C:\Users\NEW\Downloads\SupermarketBravo\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\NEW\Downloads\SupermarketBravo\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\NEW\Downloads\SupermarketBravo\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+C:\Users\NEW\Downloads\SupermarketBravo\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\NEW\Downloads\SupermarketBravo\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
